@@ -1,2 +1,1 @@
-# CalcApp
-Calculator app 
+# Calc-App
